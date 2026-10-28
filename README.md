@@ -1,12 +1,13 @@
 # Biračka mesta Savskog venca
 
-Pregled rezultata, izlaznosti i primedbi iz zapisnika biračkih odbora za sva biračka mesta opštine Savski venac (Beograd), na sedam izbora od 2022. do 2024:
+Pregled rezultata, izlaznosti i primedbi iz zapisnika biračkih odbora za sva biračka mesta opštine Savski venac (Beograd), na osam izbora od 2022. do 2026:
 
 - 3. 4. 2022: gradski, parlamentarni i predsednički izbori
 - 17. 12. 2023: parlamentarni i gradski izbori
 - 2. 6. 2024: gradski izbori i izbori za opštinu Savski venac
+- 25. 10. 2026: parlamentarni izbori (39 biračkih mesta; službeni rezultati RIK-a, stanje 28. 10. 2026; zapisnici još nisu pročitani)
 
-Prototip je napravljen za kontrolore pred parlamentarne izbore 25. oktobra 2026.
+Prototip je napravljen za kontrolore na parlamentarnim izborima 25. oktobra 2026.
 
 ## Sadržaj
 
